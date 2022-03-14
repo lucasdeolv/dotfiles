@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lucas.deoliveira2112@gmail.com
+	name = Lucas De Oliveira
